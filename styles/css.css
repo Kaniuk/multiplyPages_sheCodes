@@ -1,0 +1,28 @@
+body {
+    background: lemonchiffon;
+}
+
+img {
+    border-radius: 10px;
+}
+
+a {
+    margin: 20px;
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkgoldenrod;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.links {
+    margin-top: 40px;
+}
